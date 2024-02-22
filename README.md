@@ -1,6 +1,6 @@
 # Bursa Malaysia Data Analysis
 
-This project analyze Bursa Malaysia stock market data from 2020 until 2024 from ^KLSC.csv using Python and Jupyter Notebook.
+This project analyze Bursa Malaysia stock market data from 2020 until 2024 from ^KLSE.csv using Python and Jupyter Notebook.
 
 ## Installation
 
