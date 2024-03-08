@@ -44,7 +44,3 @@ To install these dependencies, you can use pip, the Python package manager. Open
 
 ```bash
 !pip install pandas numpy matplotlib tabulate TA-Lib
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
